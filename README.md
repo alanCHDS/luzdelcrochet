@@ -1,5 +1,4 @@
 # luzdelcrochet
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +8,7 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #fff8f0;
-            color: #333;
+            color: #FE91F1;
             margin: 0;
             padding: 0;
         }
