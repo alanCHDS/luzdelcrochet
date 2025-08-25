@@ -1,1 +1,71 @@
 # luzdelcrochet
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LuzDelCrochet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff8f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f4a261;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        .boton {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            background-color: #2a9d8f;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .boton:hover {
+            background-color: #21867a;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f4a261;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>LuzDelCrochet</h1>
+    </header>
+
+    <main>
+        <h2>Bienvenido a mi página</h2>
+        <p>Este es un espacio donde comparto mis creaciones y tutoriales de crochet. Aquí encontrarás ideas, patrones y consejos para mejorar tus proyectos.</p>
+        <a href="#" class="boton">Ver Tutoriales</a>
+    </main>
+
+    <footer>
+        &copy; 2025 LuzDelCrochet
+    </footer>
+</body>
+</html>
